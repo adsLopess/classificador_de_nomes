@@ -18,11 +18,11 @@ O código fornecido é implementado em Python, usando a biblioteca NLTK. O códi
 
 * Fazer previsões para novos nomes.
 
-* Métrica de avaliação: Accuracy
+* Métrica de avaliação: **Accuracy**
 
--- DecisionTreeClassifier: 0.77% accuracy
+DecisionTreeClassifier: 0.77% accuracy
 
--- NaiveBayesClassifier: 0.78% accuracy
+NaiveBayesClassifier: 0.78% accuracy
 
 ### 🛠 Linguagens & Ferramentas Utilizadas:
 
