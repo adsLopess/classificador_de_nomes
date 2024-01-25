@@ -19,7 +19,6 @@ Treinar o classificador Naive Bayes e o Decision Tree nos dados de treinamento.
 Fazer previsões para novos nomes.
 
 Métrica de avaliação: Accuracy
-**accuracy** = (número de previsões corretas) / (número total de previsões) 
 
 DecisionTreeClassifier: 0.77% accuracy
 
