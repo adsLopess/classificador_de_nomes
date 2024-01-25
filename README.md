@@ -1,6 +1,6 @@
 # Classificador de nomes
 
-<a href="https://colab.research.google.com/github/adsLopess/classificador_de_nomes/blob/main/classificador_de_nomes.ipynb" target="_blank"><img height="14" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
+<a href="https://colab.research.google.com/github/adsLopess/classificador_de_nomes/blob/main/classificador_de_nomes.ipynb" target="_blank"><img height="16" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 O código fornecido neste repositório fornece uma implementação simples e direta dos dois algoritmos de classificação **NaiveBayesClassifier e DecisionTreeClassifier**. O código pode ser usado como um ponto de partida para desenvolver aplicações que precisam classificar nomes.
 
