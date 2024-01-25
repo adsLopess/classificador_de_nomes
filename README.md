@@ -23,6 +23,6 @@ Fazer previsões para novos nomes.
 
 <p align="left">  
   <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" title="Python" /> </a> 
-  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-0TOT6ij4kYqAO6gXMwcbCfH0qkbQ-G3xg&usqp=CAU" title="NLTK" height="25" width="50" /> </a>
   <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://seekvectors.com/files/download/348b8e2b10e1b01cd8a05a36426d64bf.jpg" title="Colab" height="25" width="55" /> </a>
+  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-0TOT6ij4kYqAO6gXMwcbCfH0qkbQ-G3xg&usqp=CAU" title="NLTK" height="25" width="50" /> </a>
   
