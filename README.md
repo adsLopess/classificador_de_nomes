@@ -8,17 +8,17 @@ Ponto de partida ideal para estudantes de ML/DS entenderem como funciona o proce
 
 O código fornecido é implementado em Python, usando a biblioteca NLTK. O código é relativamente simples de implementar. Os principais passos são:
 
-Baixar o conjunto de dados de nomes já etiquetados do corpus de nomes do NLTK.
+* Baixar o conjunto de dados de nomes já etiquetados do corpus de nomes do NLTK.
 
-Dividir os dados em dois conjuntos: treinamento e teste.
+* Dividir os dados em dois conjuntos: treinamento e teste.
 
-Extrair as features dos nomes, no caso, a primeira e a última letra.
+* Extrair as features dos nomes, no caso, a primeira e a última letra.
 
-Treinar o classificador Naive Bayes e o Decision Tree nos dados de treinamento.
+* Treinar o classificador Naive Bayes e o Decision Tree nos dados de treinamento.
 
-Fazer previsões para novos nomes.
+* Fazer previsões para novos nomes.
 
-Métrica de avaliação: Accuracy
+* Métrica de avaliação: Accuracy
 
 DecisionTreeClassifier: 0.77% accuracy
 
