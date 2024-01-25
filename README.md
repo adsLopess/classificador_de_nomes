@@ -28,5 +28,5 @@ Fazer previsões para novos nomes.
   
   <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-0TOT6ij4kYqAO6gXMwcbCfH0qkbQ-G3xg&usqp=CAU" title="NLTK" height="25" width="50" /> </a>
 
-  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src=" https://blog.netdata.cloud/assets/images/colab-a699aa465989ccdc63feb80cdd107224.png" title="Colab" height="25" width="50" /> </a>
+  <a href="https://colab.google/" target="_blank"> <img alt="Google-Colab" src="https://blog.netdata.cloud/assets/images/colab-a699aa465989ccdc63feb80cdd107224.png" title="Colab" height="25" width="50" /> </a>
   
