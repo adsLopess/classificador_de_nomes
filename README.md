@@ -18,6 +18,9 @@ Treinar o classificador Naive Bayes e o Decision Tree nos dados de treinamento.
 
 Fazer previsões para novos nomes.
 
+Métrica de avaliação:
+Accuracy DecisionTreeClassifier: 0.77%
+Accuracy NaiveBayesClassifier: 0.78%
 
 ### 🛠 Linguagens & Ferramentas Utilizadas:
 
